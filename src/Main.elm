@@ -227,7 +227,7 @@ view model =
                 , h1 [] [ text "Waves Explorer" ]
                 ]
             , div []
-                [ a [ href "https://github.com/waves-elm/waves-explorer", target "_blank" ]
+                [ a [ href "https://github.com/OnChainTemplars/waves-explorer", target "_blank" ]
                     [ img [ src "img/github.svg" ] [] ]
                 ]
             ]
